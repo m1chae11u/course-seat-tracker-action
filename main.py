@@ -2,7 +2,6 @@ import sys
 import importlib
 
 COURSE_TO_DETECT = [
-    'EECS_126',
     'COMPSCI_189',
 ]
 
